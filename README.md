@@ -10,5 +10,7 @@ This is a chatbot built using Python.
 ## How to run
 pip install -r requirements.txt  
 python main.py  
+python app.py  
 main.py is to use chatbot from the terminal  
-app.py is to use chatbot from the browser and you can select the models of your wish
+app.py is to use chatbot from the browser and you can select the models of your wish  
+
